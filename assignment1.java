@@ -14,3 +14,6 @@ public class assignment1 {
         System.out.println("The average is : " + avg);
     }
 }
+
+
+

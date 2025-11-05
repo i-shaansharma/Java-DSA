@@ -7,9 +7,9 @@ public class sumusingfunctionandparameter {
     }
 */
 
-        public static int sumthisup(int a, int b) {
-        int sum = a + b;
-        return sum;
+        public static int sumthisup(int a, int b) { // function takes input
+        int sum = a + b; // does its work
+        return sum;  // gives us the output
         // printing in main function
     }
     public static void main(String[] args) {

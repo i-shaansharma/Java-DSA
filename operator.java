@@ -7,5 +7,9 @@ public class operator {
         System.out.println(a*b); // multiplication
         System.out.println(b/a); // division
         System.out.println(b%a); // modulus
+
+        // binary operators
+
+        
     }
 }
