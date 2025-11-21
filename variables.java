@@ -3,7 +3,6 @@ public class variables {
         int a=10;
         int b=20;
         int c;
-        
         System.out.println(c=a+b+b);
         System.out.println("a");
         System.out.println(a);
